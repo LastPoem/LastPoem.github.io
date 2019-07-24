@@ -1,1 +1,2 @@
-This is a personal website. It is very simple,because I am a beginner. 
+This is a personal website. 
+这是我的个人网页。
